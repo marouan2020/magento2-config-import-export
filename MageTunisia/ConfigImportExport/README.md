@@ -75,4 +75,4 @@ Thanks to all [contributors](https://github.com/MageTunisia/Magento2-ConfigImpor
 
 ## Copyright
 
-(c) 2016-2020 MageTunisia GmbH / Rouven Alexander Rieker
+(c) 2016-2020 MageTunisia BEN MANSOUR MAROUAN
