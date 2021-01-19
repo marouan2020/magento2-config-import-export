@@ -1,0 +1,30 @@
+{
+  "name": "MageTunisia/magento2-configimportexport",
+  "description": "Import/Export core_config_data values in Magento 2",
+  "require": {
+    "php": "^7.4",
+    "symfony/yaml": "^3.4|^4.0|^5.0",
+    "magento/module-config": "*",
+    "magento/module-store": "*",
+    "magento/framework": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "type": "magento2-module",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "BEN MANSOUR MAROUAN",
+      "email": "marouan.ben.mansour@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MageTunisia\\ConfigImportExport\\": ""
+    }
+  }
+}
